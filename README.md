@@ -1,1 +1,2 @@
-# CCloud-Storage.github.io
+# CCloud-Storage
+A **Free** *private* cloud storage service
